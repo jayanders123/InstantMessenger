@@ -4,12 +4,14 @@ import java.net.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+	
+	/**
+	 * author Joshua Anderspn
+	 */
 
 public class client extends JFrame {
 
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = -6871475960495799213L;
 	private JTextField userText;
 	private JTextArea chatWindow;
