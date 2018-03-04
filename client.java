@@ -6,7 +6,7 @@ import java.awt.event.*;
 import javax.swing.*;
 	
 	/**
-	 * author Joshua Anderspn
+	 * author Joshua Anderson
 	 */
 
 public class client extends JFrame {
